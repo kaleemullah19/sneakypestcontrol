@@ -1,0 +1,26 @@
+/* src/components/Reviews.css */
+.reviews {
+    padding: 1rem;
+    background-color: #f9f9f9;
+  }
+  
+  .reviews h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .reviews ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .reviews li {
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 1rem;
+  }
+  
+  .reviews li p {
+    margin: 0.5rem 0;
+  }
+  
